@@ -15,7 +15,6 @@
 <p>
   <img src="https://img.shields.io/badge/Software%20Architect-C0563C?style=for-the-badge&labelColor=1C1917" alt="role"/>
   <img src="https://img.shields.io/badge/State%20of%20Maine%20%C2%B7%20Office%20of%20IT-C89B3C?style=for-the-badge&labelColor=1C1917" alt="employer"/>
-  <img src="https://img.shields.io/badge/Augusta%2C%20Maine-2E7D6F?style=for-the-badge&labelColor=1C1917" alt="location"/>
   <img src="https://komarev.com/ghpvc/?username=srikanth68&label=Profile%20Views&color=C0563C&style=for-the-badge" alt="profile views"/>
 </p>
 
@@ -205,4 +204,4 @@ Whether you need an architect for your next enterprise system, want to explore A
 </p>
 
 <!-- ═══════════════ FOOTER: charcoal wave ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=1C1917&section=footer&text=Crafted%20with%20intention%20%C2%B7%20Augusta%2C%20Maine&fontColor=C89B3C&fontSize=18&fontAlignY=72&animation=fadeIn" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=1C1917&section=footer&text=Crafted%20with%20intention%20&fontColor=C89B3C&fontSize=18&fontAlignY=72&animation=fadeIn" alt="footer"/>
