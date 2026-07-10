@@ -1,0 +1,37 @@
+# 🐍 Generates the contribution-graph snake animation referenced in README.md.
+# Runs daily, on manual dispatch, and on pushes to main.
+# Output SVGs are published to the `output` branch.
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs (brand palette)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: srikanth68
+          # cream board with terracotta snake (light) / charcoal board with gold snake (dark)
+          outputs: |
+            dist/github-snake.svg?color_snake=#C0563C&color_dots=#F3E9DD,#E9CBB7,#C89B3C,#C0563C,#1C1917
+            dist/github-snake-dark.svg?color_snake=#C89B3C&color_dots=#2A2523,#5A4632,#8A6A2F,#C89B3C,#C0563C
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,7 +1,7 @@
 <!--
   ✦ SRIKANTH REDDY PATEL — GITHUB PROFILE README ✦
   Lives at github.com/srikanth68/srikanth68 — renders at the top of your profile.
-  Palette matches srikanth.tridenttech.dev: cream · terracotta (#C0563C) · gold (#C89B3C) · charcoal.
+  Palette matches srikanth.tridenttech.dev: cream · terracotta (#C0563C) · gold (#C89B3C) · charcoal (#1C1917).
 -->
 
 <!-- ═══════════════ HEADER: terracotta waving banner ═══════════════ -->
@@ -74,8 +74,23 @@ Over **14+ years** I've worn many hats — developer, analyst, senior engineer, 
 ![ESRI / GIS](https://img.shields.io/badge/ESRI%20%2F%20GIS%20APIs-2E7D6F?style=flat-square&logo=esri&logoColor=white)
 ![Solution Design](https://img.shields.io/badge/Solution%20Design-2E7D6F?style=flat-square&logo=blueprint&logoColor=white)
 
-<!-- ═══════════════ 03 — GITHUB STATS (warm themed) ═══════════════ -->
-## `03` — GitHub, by the Numbers
+<!-- ═══════════════ 03 — CURRENTLY EXPLORING ═══════════════ -->
+## `03` — Currently Exploring
+
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│  🧭  THE LAB — what's on my workbench right now                  │
+├─────────────────────────────────────────────────────────────────┤
+│  ▸ Generative AI in the SDLC — sharpening how teams design,     │
+│    review, and ship software with LLMs in the loop              │
+│  ▸ Prompt engineering patterns for enterprise .NET workflows    │
+│  ▸ Microsoft 365 Copilot — practical adoption for gov teams     │
+│  ▸ Ethics in the age of Gen AI — building responsibly           │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<!-- ═══════════════ 04 — GITHUB STATS + SNAKE ═══════════════ -->
+## `04` — GitHub, by the Numbers
 
 <div align="center">
 
@@ -86,10 +101,17 @@ Over **14+ years** I've worn many hats — developer, analyst, senior engineer, 
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srikanth68&bg_color=00000000&color=C0563C&line=C89B3C&point=C0563C&area=true&hide_border=true" alt="activity graph"/>
 
+<!-- 🐍 contribution snake — generated daily by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srikanth68/srikanth68/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srikanth68/srikanth68/output/github-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/srikanth68/srikanth68/output/github-snake.svg" alt="contribution snake"/>
+</picture>
+
 </div>
 
-<!-- ═══════════════ 04 — CAREER ═══════════════ -->
-## `04` — Where I've Shipped
+<!-- ═══════════════ 05 — CAREER ═══════════════ -->
+## `05` — Where I've Shipped
 
 - **`Now`** &nbsp;·&nbsp; **Jr. Architect** — _State of Maine, Office of IT_ &nbsp;→&nbsp; Guiding 15 developers on architecture, leading GitHub migrations, optimizing SQL, and setting coding standards.
 - **`2021 – Now`** &nbsp;·&nbsp; **DotNet Architect** — _Infoway Software_ &nbsp;→&nbsp; Designing enterprise-grade .NET solutions and scalable patterns teams can build on confidently.
@@ -97,8 +119,56 @@ Over **14+ years** I've worn many hats — developer, analyst, senior engineer, 
 - **`2011`** &nbsp;·&nbsp; **.NET Developer** — _Midland Surveying, Inc._ &nbsp;→&nbsp; Built geospatial data-visualization tools with ESRI APIs & Silverlight.
 - **`2010`** &nbsp;·&nbsp; **Graduate RA & TA** — _Northwest Missouri State University_ &nbsp;→&nbsp; My first taste of leadership through teaching.
 
-<!-- ═══════════════ 05 — CREDENTIALS ═══════════════ -->
-## `05` — Credentials
+<!-- ═══════════════ 06 — BEYOND THE DAY JOB ═══════════════ -->
+## `06` — Beyond the Day Job
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎤 &nbsp;Real-Time with SignalR</h3>
+      <p><em>Tech Talk — .NET Developer Forum</em></p>
+      <p>Building real-time web experiences with SignalR — persistent connections, scalability patterns, and practical use cases for enterprise apps.</p>
+      <img src="https://img.shields.io/badge/SignalR-C0563C?style=flat-square" alt="signalr"/> <img src="https://img.shields.io/badge/.NET-C0563C?style=flat-square" alt=".net"/> <img src="https://img.shields.io/badge/WebSockets-C0563C?style=flat-square" alt="websockets"/> <img src="https://img.shields.io/badge/Real--Time-C0563C?style=flat-square" alt="real-time"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧱 &nbsp;NEO Application Framework</h3>
+      <p><em>Private Project — Maine Dept. of Education</em></p>
+      <p>Co-authored a custom application framework — a foundational layer that standardized development patterns across multiple state apps.</p>
+      <img src="https://img.shields.io/badge/.NET-C89B3C?style=flat-square" alt=".net"/> <img src="https://img.shields.io/badge/Framework%20Design-C89B3C?style=flat-square" alt="framework design"/> <img src="https://img.shields.io/badge/CI%2FCD-C89B3C?style=flat-square" alt="ci/cd"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ &nbsp;GIS Data Visualization Suite</h3>
+      <p><em>Private Project</em></p>
+      <p>Custom mapping and data-visualization tools using ESRI APIs — turning raw geospatial data into interactive, analyst-friendly interfaces.</p>
+      <img src="https://img.shields.io/badge/ESRI%20APIs-2E7D6F?style=flat-square" alt="esri"/> <img src="https://img.shields.io/badge/Silverlight-2E7D6F?style=flat-square" alt="silverlight"/> <img src="https://img.shields.io/badge/GIS-2E7D6F?style=flat-square" alt="gis"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚚 &nbsp;Enterprise Migration Toolkit</h3>
+      <p><em>Shipped</em></p>
+      <p>Led the full migration of version control from VSTS to GitHub for a 15-person dev team — including CI/CD pipeline redesign and team onboarding.</p>
+      <img src="https://img.shields.io/badge/GitHub-8B4367?style=flat-square" alt="github"/> <img src="https://img.shields.io/badge/DevOps-8B4367?style=flat-square" alt="devops"/> <img src="https://img.shields.io/badge/Migration-8B4367?style=flat-square" alt="migration"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ &nbsp;SQL Optimization Initiative</h3>
+      <p><em>Shipped</em></p>
+      <p>Systematically profiled and rewrote performance-critical queries across government applications — measurably faster page loads and reporting.</p>
+      <img src="https://img.shields.io/badge/SQL%20Server-C0563C?style=flat-square" alt="sql server"/> <img src="https://img.shields.io/badge/Performance-C0563C?style=flat-square" alt="performance"/> <img src="https://img.shields.io/badge/Tuning-C0563C?style=flat-square" alt="tuning"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 &nbsp;Code Experiments</h3>
+      <p><em>Ongoing</em></p>
+      <p>Open-source contributions, personal projects, and experiments with generative AI in the software development lifecycle — right here on GitHub.</p>
+      <img src="https://img.shields.io/badge/Open%20Source-C89B3C?style=flat-square" alt="open source"/> <img src="https://img.shields.io/badge/Gen%20AI-C89B3C?style=flat-square" alt="gen ai"/> <img src="https://img.shields.io/badge/Always%20Learning-C89B3C?style=flat-square" alt="always learning"/>
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════ 07 — CREDENTIALS ═══════════════ -->
+## `07` — Credentials
 
 ![MCSD](https://img.shields.io/badge/Microsoft-Certified%20Solution%20Developer-C0563C?style=flat-square&logo=microsoft&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-C89B3C?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -108,8 +178,23 @@ Over **14+ years** I've worn many hats — developer, analyst, senior engineer, 
 🎓 &nbsp;**M.S., Applied Computer Sciences** — Northwest Missouri State University
 📚 &nbsp;_Recent learning:_ Ethics in the Age of Gen AI · Microsoft 365 Copilot for Work
 
-<!-- ═══════════════ 06 — SAY HELLO ═══════════════ -->
-## `06` — Let's Build Something Meaningful
+<!-- ═══════════════ 08 — PHILOSOPHY ═══════════════ -->
+## `08` — How I Think
+
+<div align="center">
+<br/>
+
+### _"The best architecture doesn't just solve today's problem —_
+### _it **creates room** for whatever comes next."_
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized_light&border=false" alt="rotating dev quote"/>
+
+</div>
+
+<!-- ═══════════════ 09 — SAY HELLO ═══════════════ -->
+## `09` — Let's Build Something Meaningful
 
 Whether you need an architect for your next enterprise system, want to explore AI integration, or just want to trade notes on clean code — let's talk.
 
